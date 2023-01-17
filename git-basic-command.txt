@@ -1,0 +1,22 @@
+git init
+
+git status
+
+git add -A
+
+git commit "file name"
+
+git commit -m "commit words"   #commit all file onces
+
+git config core.autocrlf true  #for information
+
+git config core.autocrlf false  #for ignore information
+
+git remote add origin #remote github link SSH
+
+git remote
+
+git remote -v
+
+git push -u origin master #push github repository
+
