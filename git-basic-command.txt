@@ -20,3 +20,6 @@ git remote -v
 
 git push -u origin master #push github repository
 
+git remote set-url origin git@github.com:vaibhav030798/Brain-Tumor-Detection.git
+
+
